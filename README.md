@@ -1,2 +1,0 @@
-# Movie-name-generator
-
